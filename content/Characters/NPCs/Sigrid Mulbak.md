@@ -1,0 +1,21 @@
+##### He / Him | Lizardfolk 
+ 
+- Occupations 
+	- Soldier
+- Organizations 
+	- [[Legion]] 
+- Description
+	- Physical 
+		- Agile build
+		- Horns that curve downwards
+		- Brown scales
+		- Yellow eyes
+		- 6' 6"
+	- Personal 
+		- Forgetful
+- Relationships 
+	- [[Petra Linley]] | Teammates 
+- Notes 
+	- On way back from a diplomatic mission
+	- Dressed in a simple blue shirt and green pants
+	- Passenger on the [[Voyage to Aethera]]

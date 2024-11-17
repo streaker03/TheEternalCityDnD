@@ -1,0 +1,11 @@
+  
+- Organizations 
+	- [[Aetheran Republic]] | Governing Authority
+- Notes 
+	- Aethera is one of the most well known cities in the world
+	- It is an independent city-state with its own law, military, borders, etc.
+	- It has been around for a thousand or so years
+	- It was originally called Therena after Theren, redeemer of the drowned and savior of the forgotten. But changed soon after her death when Sage Aeon designed and developed Aeon’s Wall which defended the city’s bay from invaders for generations.
+	- The city is an engineering marvel, featuring skyscrapers that stretch to the heavens, tall thick walls that surround the major population center and many many landmarks throughout.
+	- The city is one of the few that are able to allow magic near freely throughout the city as through its continuous investments into the world famous Astralis Institute have lead to ingenious inventions and strategies for protecting the city and its inhabitants
+	- The city is also a religious and cultural center, having been around for so long and being a part of the shifting tides of multiple cultural and religious revolutions. The city is home to a diverse set of culturally and religiously significant artifacts, locations, etc.

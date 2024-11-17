@@ -1,0 +1,25 @@
+##### He / Him | Human 
+ 
+- Occupations 
+	- Lawyer
+- Organizations 
+	- [[The Nature Authority]] | District Associate 
+- Description
+	- Physical 
+		- Bronze skin
+		- Solid build
+		- Strawberry blonde hair pulled back into a tight bun
+		- Green eyes
+		- 6' 0"
+	- Personal 
+		- Polite
+		- Encyclopedic
+		- Stoic
+- Relationships 
+	- [[Oryn Solest]] | Helping her 
+- Quests 
+	- [[The Stowaway]] | Helping the stowaway 
+- Notes 
+	- On his way back to Aethera after a trip to a nature reserve's offices
+	- Dressed in a brown frock coat with navy blue undershirt complemented by a very small blue and green blooming flower lapel pin
+	- Passenger on the [[Voyage to Aethera]]
