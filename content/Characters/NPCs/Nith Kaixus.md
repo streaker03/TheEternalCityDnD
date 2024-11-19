@@ -4,5 +4,19 @@
 	- Speaker
 - Organizations 
 	- [[Zendikarian (Solice Speakers)]]
+- Description
+	- Physical 
+		- Dark red skin
+		- Many very small horns
+		- Red eyes
+		- 5' 3"
+		- Average build
+	- Personal 
+		- Eager
+		- Hopeful
+- Relationships 
+	- [[Atzu Curo]] | Sponsor 
 - Notes 
+	- On her way to [[Aethera]] to begin proper training with the [[Zendikarian (Solice Speakers)]]
+	- Dressed in a red blouse with black pants and a crimson cloak
 	- Passenger on the [[Voyage to Aethera]]

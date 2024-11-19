@@ -1,6 +1,27 @@
   
+- Notable Members 
+	- [[Atzu Curo]] | Arcanist
+	- [[Nith Kaixus]] | Aspirant
 - Notes 
 	- Believes that mortals can ascend to godhood by reaching enlightenment and that three mortals have succeeded. Arras, Tethyl, and Poli
+	- A cloak of crimson with gold embellishments is the standard uniform
+	- Schools of thought 
+		- Limbs of Arras 
+			- Believes that enlightenment is reached through intensive study and meditation 
+			- Practicioners of this school of thought spend most of their time in the ancient libraries, meditating in the zen gardens, or in some other way honing their individual skills as much as possible. 
+			- The gold embellishments on the uniform resemble a maze covering more and more of the cloak to designate rank
+		- Voice of Tethyl 
+			- Believes that enlighenment is reached through the bettering the current state of the world as much as possible in their lifetime 	
+			- Practicioners of this school of thought are focused on the external capability of the guild, donations, support, lobbying, emergency response, defense, etc. 
+			- The gold embellishments on the uniform resemble a simple pattern of thinner and thinner lines equally spaced approacing the center of the cloak with more lines designating rank
+			- Currently the most powerful school of thought with the current Celestine being from this school
+		- Heart of Poli 			
+			- Believes that enlightenment is reached through introspection and discovering new information regarding the religion 			
+			- Practicioners of this school of thought meditate, research, and go on expeditions to ancient sites to uncover relics of the gods
+			- The gold embellishments on the uniform resemble a web of interconnected lines that gradually covers more and more of the cloak to designate rank
+	- Once a peaceful organization that focused primarily on achieved enlightenment and transcending the common form
+	- All members are encouraged to spend time in all of these areas, but different people often gravitate more to one school of thought more than others. Once a particular school stands out the member may request to become an understudy in that field to then eventually face trials and rise up in the ranks
+	- Each of these schools of thoughts has a leader and by popular vote every so often one of these leaders is voted into the main high position of the org that focuses on the direction of the org as a whole.
 	- Ranks
 		- Votary
 		- Arcanist

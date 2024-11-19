@@ -7,6 +7,10 @@
 		- Disheveled fur
 		- Pale white and black fur pattern
 		- 5' 1"
+	- Personal 
+		- Selfish
+		- Cunning
+		- Paranoid
 - Relationships 
 	- [[Ferrand Belle]] | Person helping her 
 - Quests 

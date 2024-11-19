@@ -11,9 +11,12 @@
 		- Olive green skin
 		- 5' 6"
 	- Personal 
+		- Tired
 		- Keeps to himself
 - Relationships 
 	- [[Dexter Edewin]] | Coworker 
+- Quests 
+	- [[Missing Provisions]] | Notice the missing provisions 
 - Notes 
 	- Dressed in tattered blue pants, an apron, and an old stained chef's hat
 	- Cook on the [[Voyage to Aethera]]

@@ -13,6 +13,8 @@
 		- 6' 3"
 - Relationships 
 	- [[Sigrid Mulbak]] | Teammates 
+- Quests 
+	- Disappearence of Petra Linley | Missing 
 - Notes 
 	- Dressed in simple blue shirt and green pants
 	- On way back from diplomatic security

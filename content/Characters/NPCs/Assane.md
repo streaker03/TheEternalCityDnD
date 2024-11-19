@@ -12,6 +12,9 @@
 		- Quiet
 - Relationships 
 	- [[Scylla]] | Daughter 
+- Things 
+	- Two passports with [[Elowyn Sun's Signet]]
 - Notes 
 	- Dressed in a black full body covering that droops to the floor, has a tight hood, veil, and arm wraps
 	- Passenger on the [[Voyage to Aethera]]
+

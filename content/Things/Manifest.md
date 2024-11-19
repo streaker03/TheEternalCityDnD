@@ -1,0 +1,15 @@
+  
+ Manifest for the [[Voyage to Aethera]]
+ Souls
+ - [[Atzu Curo]]
+ - [[Aungwa Whistlewire]]
+ - [[Dexter Edewin]]
+ - [[Ferrand Belle]]
+ - [[Kars Koltrin]]
+ - [[Lars Greenhorn]]
+ - [[Solen]]
+ - [[Nith Kaixus]]
+ - [[Petra Linley]]
+ - [[Sigrid Mulbak]]
+ - [[Tavish Tarn]]
+ - [[Tiffany Ryder]]

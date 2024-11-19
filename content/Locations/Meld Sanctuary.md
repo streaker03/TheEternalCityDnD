@@ -1,3 +1,3 @@
   
 - Organizations 
-	- [[Crystal Crest]] | Headquaters
+	- Crystal Crest | Headquaters
