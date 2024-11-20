@@ -1,6 +1,6 @@
   
 - Things 
-	- [Cleansing Stone](https://www.dndbeyond.com/magic-items/215548-cleansing-stone)
+	- [Cleansing Marble](https://www.dndbeyond.com/magic-items/9160359-cleansing-marble)
 	- [Mystery Key](https://www.dndbeyond.com/magic-items/27076-mystery-key)
 - Notes 
 	- Store specializes in selling goods that were left behind / lost and then claimed / found by the owner

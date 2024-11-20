@@ -6,5 +6,5 @@
 		- Dark orange eyes
 		- Black hair
 		- Grayish-Green skin
-- Things 
-	- [Ornate Necklace](https://www.dndbeyond.com/magic-items/9070033-ornate-necklace)
+- Notes 
+	- [Ornate Necklace](https://www.dndbeyond.com/magic-items/9070033-ornate-necklace), originally found in the [[Hidden Crawlspace]] until it was discovered that it belonged to [[Oryn Solest]]

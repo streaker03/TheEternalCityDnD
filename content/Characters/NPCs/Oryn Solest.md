@@ -15,6 +15,8 @@
 	- [[Ferrand Belle]] | Person helping her 
 - Quests 
 	- [[The Stowaway]] | Stowaway 
+- Things 
+	- [Ornate Necklace](https://www.dndbeyond.com/magic-items/9070033-ornate-necklace), given back to her by [[Kars Koltrin]]
 - Notes 
 	- Dressed in tattered and dirty clothing
 	- Stowaway on the [[Voyage to Aethera]]
