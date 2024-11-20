@@ -1,5 +1,7 @@
-##### Forest Gnome | Chaotic Neutral | Monk - Way of the Four Elements
+##### She / Her | Forest Gnome | Chaotic Neutral | Monk - Way of the Four Elements
  
+- Organizations 
+	- [[The Party]] | Member
 - Description
 	- Physical 
 		- 3' 9"
