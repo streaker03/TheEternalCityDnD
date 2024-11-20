@@ -7,7 +7,7 @@
 - Notable Things 
 	- [[Medical Crates]]
 - Notes 
-	- [[Lars Greenhorn]] noticed there are missing supplies and had Captain [[Dexter Edewin]] task The Parhe Party with investigating
+	- [[Lars Greenhorn]] noticed there are missing supplies and had Captain [[Dexter Edewin]] task [[The Party]] with investigating
 
 
 

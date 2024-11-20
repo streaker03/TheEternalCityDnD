@@ -1,9 +1,9 @@
-##### She / They | Tiefling 
+##### She / They | Tiefling | Cleric - Peace Domain
  
 - Occupations 
 	- Speaker
 - Organizations 
-	- [[Zendikarian (Solice Speakers)]]
+	- [[Zendikarian (Solice Speakers)]] | Aspirant
 - Description
 	- Physical 
 		- Dark red skin

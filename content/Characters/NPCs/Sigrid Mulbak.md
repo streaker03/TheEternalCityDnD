@@ -16,6 +16,7 @@
 - Relationships 
 	- [[Petra Linley]] | Teammates 
 - Notes 
-	- On way back from a diplomatic mission
+	- On way back from a diplomatic security mission
+	- Discussing a [[Strange Encounter with Black Marks]]
 	- Dressed in a simple blue shirt and green pants
 	- Passenger on the [[Voyage to Aethera]]

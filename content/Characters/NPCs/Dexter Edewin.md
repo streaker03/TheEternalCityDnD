@@ -12,9 +12,13 @@
 		- Rusty brown skin
 		- 6' 5"
 	- Personal 
+		- Empathetic
 		- Boisterous
+		- Brave
 - Relationships 
 	- [[Lars Greenhorn]] | Coworker 
+- Things 
+	- [[Manifest]]
 - Notes 
 	- Dressed in a worn white shirt, tattered aqua jacket, pants with a large black belt and large fisherman's boots
 	- Captain of the [[SBS Gladstone]] during the [[Voyage to Aethera]]

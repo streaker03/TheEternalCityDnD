@@ -15,3 +15,6 @@
 	- [[Ferrand Belle]] | Person helping her 
 - Quests 
 	- [[The Stowaway]] | Stowaway 
+- Notes 
+	- Dressed in tattered and dirty clothing
+	- Stowaway on the [[Voyage to Aethera]]

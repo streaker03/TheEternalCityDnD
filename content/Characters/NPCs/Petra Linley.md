@@ -11,11 +11,15 @@
 		- Yellow eyes
 		- Grey skin
 		- 6' 3"
+	- Personal 
+		- Strong willed
 - Relationships 
 	- [[Sigrid Mulbak]] | Teammates 
 - Quests 
-	- Disappearence of Petra Linley | Missing 
+	- [[Disappearence of Petra Linley]] | Missing 
 - Notes 
+	- Missing
+	- Discussing a [[Strange Encounter with Black Marks]]
 	- Dressed in simple blue shirt and green pants
 	- On way back from diplomatic security
 	- Passenger on the [[Voyage to Aethera]]

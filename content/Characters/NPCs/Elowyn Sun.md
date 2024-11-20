@@ -1,4 +1,4 @@
-##### She / Her | Lizardfolk
+##### She / Her 
  
 - Occupations 
 	- Grand Arbiter

@@ -3,7 +3,7 @@
 - Occupations 
 	- Speaker
 - Organizations 
-	- [[Zendikarian (Solice Speakers)]]
+	- [[Zendikarian (Solice Speakers)]] | Arcanist 
 - Description
 	- Physical 
 		- Dark red eyes
