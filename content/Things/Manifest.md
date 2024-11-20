@@ -11,5 +11,5 @@
  - [[Nith Kaixus]]
  - [[Petra Linley]]
  - [[Sigrid Mulbak]]
- - [[Mr. Tarn]]
+ - [[Tavish Tarn]]
  - [[Tiffany Ryder]]
