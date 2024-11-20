@@ -1,4 +1,4 @@
  
-!BurnedDocument.purnedDocument.png
+![[BurnedDocument.png]]
 
 
