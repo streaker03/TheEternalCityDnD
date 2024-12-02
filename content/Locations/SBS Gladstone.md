@@ -1,9 +1,15 @@
   
 - Organizations 
 	- [[Sea Bright Ships]] | Property
+- Sublocations 
+	- [[Tavish Tarn's Room]]
 - Things 
 	- [[Strange Sphere]]
 	- [[Manifest]]
 	- [[Iridescent Nautilus]]
 	- [[Burned Document]]
 	- [[Medical Crates]]
+- Notes 
+	- Parked by [[Taldez Keep]]
+	- Rudder destroyed
+	- Bottom floor submerged

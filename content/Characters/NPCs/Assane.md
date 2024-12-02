@@ -1,5 +1,7 @@
 ##### She / Her | Elf 
  
+- Occupations 
+	- On the run
 - Description
 	- Physical 
 		- Slender build
@@ -12,6 +14,8 @@
 		- Quiet
 - Relationships 
 	- [[Scylla]] | Daughter 
+- Quests 
+	- [[Night Raid]] | Hunted 
 - Things 
 	- Two passports with [[Elowyn Sun's Signet]]
 - Notes 

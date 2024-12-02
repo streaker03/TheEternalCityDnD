@@ -1,0 +1,3 @@
+  
+- Notable Locations 
+	- [[Taldez Keep]]

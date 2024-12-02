@@ -5,3 +5,4 @@
 - [[Atzu Curo]] has been acting suspicious and was apprehended after attacking [[Kars Koltrin]]
 - [[Scylla]] and [[Assane]] have been acting suspicious and was questioned by [[The Party]] especially regarding the [[Iridescent Nautilus]]
 - The [[SBS Gladstone]] was attacked in a [[Night Raid]], which was repelled by [[The Party]]
+- [[SBS Gladstone]] made port (albeit roughly and involuntarily) at [[Taldez Keep]]

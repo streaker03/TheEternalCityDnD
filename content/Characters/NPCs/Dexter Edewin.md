@@ -17,9 +17,12 @@
 		- Brave
 - Relationships 
 	- [[Lars Greenhorn]] | Coworker 
+- Quests 
+	- [[Night Raid]] | Threatened and Cursed 
 - Things 
 	- [[Manifest]]
 - Notes 
+	- Cursed during [[Night Raid]]
 	- Dressed in a worn white shirt, tattered aqua jacket, pants with a large black belt and large fisherman's boots
 	- Captain of the [[SBS Gladstone]] during the [[Voyage to Aethera]]
 
