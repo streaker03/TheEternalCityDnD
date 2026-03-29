@@ -14,6 +14,7 @@
 - Relationships 
 	- [[Ferrand Belle]] | Person helping her 
 - Quests 
+	- [[Oryn Solest Missing]] | Missing 
 	- [[The Stowaway]] | Stowaway 
 - Things 
 	- [Ornate Necklace](https://www.dndbeyond.com/magic-items/9070033-ornate-necklace), given back to her by [[Kars Koltrin]]

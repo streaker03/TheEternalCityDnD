@@ -12,6 +12,7 @@
 		- Blonde hair
 		- 5' 5"
 - Things 
+	- [[Strange Mark]]
 	- [Cleansing Marble](https://www.dndbeyond.com/magic-items/9160359-cleansing-marble), purchased from the [[Everything Lost Store]]
 - Notes 
 	- ![[SolenImage.png]]

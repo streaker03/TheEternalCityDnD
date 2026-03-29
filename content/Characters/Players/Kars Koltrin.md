@@ -8,5 +8,8 @@
 		- Yellow eyes
 		- Blonde hair
 		- Red Skin
+		- 27 years old
+- Things 
+	- [[Devil's in the Details, An Encyclopedia]]
 - Notes 
 	- [Ornate Necklace](https://www.dndbeyond.com/magic-items/9070033-ornate-necklace), originally found in the [[Hidden Crawlspace]] until it was discovered that it belonged to [[Oryn Solest]]
