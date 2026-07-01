@@ -2,7 +2,7 @@
 - Organizations 
 	- [[Taldez Family]] | Property
 - Things 
-	- [Bag of Withholding](https://www.dndbeyond.com/magic-items/530521-bag-of-withholding)
+	- Bag of Holding?
 	- [[Allister Taldez Death Record]]
 - Notes 
 	- Further investigation in the research section reveals a locked drawer with the bag inside
